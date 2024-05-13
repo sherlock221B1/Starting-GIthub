@@ -8,4 +8,11 @@ git မှာတင်ဖို့ အတွက် repo အသစ်လုပ်
     git push <repoName> <branchName>
     git မှာတင်ထားတဲ့ branch ကိုဖျက်နည်း။
     git push <repeName> --delete <branchName>
+
+**code တွေ ဒေါင်းနည်း
+    download zip နဲ့ဒေါင်းပြီး zip ပြန်ဖြည်လည်းရတယ်။
+    ဒါမှ မဟုတ်
+    ကိုယ့် pc မှာ folder တစ်ခုဆောက်။ အဲ့ folder ကို terminal တစ်ခုမှာဖွင့်။
+    ပြီးရင် git clone < ကိုယ်ဒေါင်း ချင်တဲ့ code ရဲ့ link>
+    ဒီလိုရေးပြီး ဒေါင်းလို့ရ။
     */
