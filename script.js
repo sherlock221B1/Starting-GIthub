@@ -15,4 +15,16 @@ git မှာတင်ဖို့ အတွက် repo အသစ်လုပ်
     ကိုယ့် pc မှာ folder တစ်ခုဆောက်။ အဲ့ folder ကို terminal တစ်ခုမှာဖွင့်။
     ပြီးရင် git clone < ကိုယ်ဒေါင်း ချင်တဲ့ code ရဲ့ link>
     ဒီလိုရေးပြီး ဒေါင်းလို့ရ။
+
+**git stash**
+    တစ်ခုရေးနေတုန်း နောက်ရေးစရာတစ်ခုပေါ်လာရင် git stash သုံးပြီးခနဖယ်ထားလို့ရ။
+    ဖယ်ချင်ရင် git stash 
+    ပြန်ဖော်ချင်ရင် git stash pop 
+
+**git stash --include-untracked
+    git stash နဲ့ပဲဖယ်ရင် modifiy လုပ်မထားတဲ့ file တွေ (or) untracked file တွေကျန်နေခဲ့မယ်။
+    အဲ့ကောင်တွေပါ ပါအောင် git stash --include-untracked နဲ့ဖယ်ပေးရမယ်။
+
+    တကယ်ရေးတဲ့ အခါ ဒီကောင်ကိုပဲ အများဆုံးသုံးရတယ်။
+
     */
