@@ -2,7 +2,9 @@
 ## 🚀 About Me
 I'm learning web development as a beginner.
 I accidently gave my last commit message worng.
-I wrote git trash instead of git stash. I wanna repair it.How can I repair it?Can someone help me.
+I wrote git trash instead of git stash. I wanna repair it.
+I can do it in my locl pc. But I don't know how to do it on github.
+How can I repair it?Can someone help me.
 # Project Title
 
 A brief description of what this project does and who it's for
